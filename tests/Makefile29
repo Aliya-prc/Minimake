@@ -1,0 +1,2 @@
+all:
+	echo ne_pas_executer

@@ -1,0 +1,3 @@
+NAME=world
+all:
+	echo '$(NAME)'

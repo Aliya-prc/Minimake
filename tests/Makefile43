@@ -1,0 +1,3 @@
+# normalement ca passe  
+all:
+	@echo bonjour

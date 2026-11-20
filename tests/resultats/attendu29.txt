@@ -1,0 +1,4 @@
+Usage: minimake [options] [targets]
+  -f FILE, --file=FILE, --makefile=FILE
+  -h, --help
+  -p, --pretty-print, --print-data-base

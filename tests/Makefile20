@@ -1,0 +1,2 @@
+all: fichier_introuvable
+	echo jamais

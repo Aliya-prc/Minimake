@@ -1,0 +1,11 @@
+all: left right
+	@echo all
+
+left: shared
+	@echo left
+
+right: shared
+	@echo right
+
+shared:
+	@echo shared

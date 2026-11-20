@@ -1,0 +1,6 @@
+echo gauche
+gauche
+echo droite
+droite
+echo fin
+fin

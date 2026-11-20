@@ -1,0 +1,5 @@
+# variables
+'NAME' = 'world'
+# rules
+(all):
+    '@echo $(NAME)'

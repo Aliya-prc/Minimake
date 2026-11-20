@@ -1,0 +1,2 @@
+echo long_file
+long_file

@@ -1,0 +1,4 @@
+all: prep
+	echo fin
+prep:
+	echo preparer

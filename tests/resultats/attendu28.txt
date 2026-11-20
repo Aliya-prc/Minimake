@@ -1,0 +1,2 @@
+echo long_makefile
+long_makefile

@@ -1,0 +1,2 @@
+all:
+	echo The answer is still $

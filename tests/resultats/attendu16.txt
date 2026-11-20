@@ -1,0 +1,2 @@
+echo The answer is still $
+The answer is still $

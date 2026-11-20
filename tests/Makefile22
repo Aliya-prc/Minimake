@@ -1,0 +1,6 @@
+all: left right
+	echo fin
+left:
+	echo gauche
+right:
+	echo droite

@@ -1,0 +1,5 @@
+NAME = monde
+all: prep
+	@echo $(NAME)
+prep:
+	@echo pret

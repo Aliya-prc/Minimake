@@ -1,0 +1,3 @@
+echo generated > generated.txt
+echo complete
+complete

@@ -1,0 +1,4 @@
+all: source.txt generated.txt
+	echo complete
+generated.txt: source.txt
+	echo generated > generated.txt
