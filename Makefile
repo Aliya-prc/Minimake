@@ -10,9 +10,9 @@ minimake: $(OBJ)
 	$(CC) -o minimake $(OBJ)
 
 check: minimake
-	./tests/tests.sh
+	sh tests/tests.sh
 
 clean:
-	rm $(RM) $(OBJ) minimake
+	$(RM) $(OBJ) minimake
 
 .PHONY: clean check all
